@@ -10,3 +10,17 @@ body {
     color: white;
     background-color: rgb(20, 20, 20);
 }
+
+.w3-bar {
+  background-color: #111;
+}
+
+.w3-button {
+  color: #ffcc00;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.w3-black {
+  background-color: #1a1a1a;
+}
